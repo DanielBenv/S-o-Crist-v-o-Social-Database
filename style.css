@@ -1,4 +1,58 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+.pagehead{
     background-color: #1B1A42;
     color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logohead{
+    width: 10%;
+}
+
+.header_list_item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 40px 0;
+    font-size: 20px;
+}
+
+.pagetitle{
+    padding: 40px 0;
+}
+
+.teacher_image{
+    width: 20%;
+}
+
+.escola{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px 0;
+}
+
+.escola_div_content{
+    width: 35%;
+}
+
+.escola_title{
+    padding: 24px 0;
+}
+
+.contato_escola{
+    padding: 24px 0;
+}
+
+.contato_div_content{
+    width: 35%;
+
+}
+
+.escola_section {
+    background-image: linear-gradient(#252467,#BF2828);
 }
