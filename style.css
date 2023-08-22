@@ -86,3 +86,21 @@
 .foto_generica {
     width: 282px;
 }
+
+.estudante_icon {
+    width: 50px;
+}
+
+.estudante_div {
+    text-align: center;
+}
+
+.estudante_title {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante_all{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%
+}
