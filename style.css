@@ -85,10 +85,14 @@
 
 .foto_generica {
     width: 282px;
+    padding: 10px;
 }
 
 .estudante_icon {
     width: 50px;
+    padding: 5px 0;
+    justify-content: space-around;
+    
 }
 
 .estudante_div {
@@ -97,10 +101,18 @@
 
 .estudante_title {
     text-align: center;
-    padding: 50px 0;
+    padding: 70px 0;
+    font-family: 'K2D', sans-serif;
+    font-size: 50px;
 }
 
 .estudante_all{
     display: grid;
     grid-template-columns: 33% 33% 33% ;
+}
+
+.estudante_name {
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    padding: 5px 0;
 }
