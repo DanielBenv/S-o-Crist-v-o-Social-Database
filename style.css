@@ -47,6 +47,7 @@
     justify-content: center;
     align-items: center;
     padding: 200px 0;
+
 }
 
 .escola_div_content{
@@ -63,7 +64,7 @@
     padding: 24px 0;
     font-family: 'K2D', sans-serif;
     text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
-    font-size: 24px;
+    
 }
 
 
@@ -85,14 +86,10 @@
 
 .foto_generica {
     width: 282px;
-    padding: 10px;
 }
 
 .estudante_icon {
-    width: 50px;
-    padding: 5px 0;
-    justify-content: space-around;
-    
+    width: 40px;
 }
 
 .estudante_div {
@@ -101,9 +98,11 @@
 
 .estudante_title {
     text-align: center;
-    padding: 70px 0;
-    font-family: 'K2D', sans-serif;
-    font-size: 50px;
+    padding: 50px 0;
+    font-family: 'K2D';
+    font-size: 40px;
+    
+
 }
 
 .estudante_all{
@@ -114,5 +113,13 @@
 .estudante_name {
     font-family: 'Inter', sans-serif;
     font-size: 30px;
-    padding: 5px 0;
+}
+
+.footer {
+    background-color: #1B1A42;
+}
+
+.footer_img {
+    height: 111px;
+    padding: 7px;
 }
