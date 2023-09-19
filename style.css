@@ -34,6 +34,7 @@
     padding: 40px 0;
     color:#A01010;
     -webkit-text-stroke: 1px white;
+    font-family: 'Inter';
     
 }
 
@@ -117,9 +118,23 @@
 
 .footer {
     background-color: #1B1A42;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer_img {
     height: 111px;
     padding: 7px;
 }
+
+.footer_title {
+
+    font-family: 'Inter';
+    font-size: 40px;
+    color:#A01010;
+    -webkit-text-stroke: 1px white;
+    
+}
+
